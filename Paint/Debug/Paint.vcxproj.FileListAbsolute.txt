@@ -1,0 +1,6 @@
+D:\project visual studia\BSUIR\ООП\Laba2\Paint\Paint\Debug\Paint.vcxproj.AssemblyReference.cache
+D:\project visual studia\BSUIR\ООП\Laba2\Paint\Paint\Debug\Paint.PaintForm.resources
+D:\project visual studia\BSUIR\ООП\Laba2\Paint\Paint\Debug\Paint.vcxproj.GenerateResource.cache
+D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Paint\Debug\Paint.vcxproj.AssemblyReference.cache
+D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Paint\Debug\Paint.PaintForm.resources
+D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Paint\Debug\Paint.vcxproj.GenerateResource.cache

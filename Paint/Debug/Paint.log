@@ -1,0 +1,6 @@
+﻿  PaintForm.cpp
+D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Paint\PaintForm.cpp(13,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Paint\PaintForm.cpp(208,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Paint\PaintForm.cpp(208,34): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  PaintForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Paint.vcxproj -> D:\project visual studia\BSUIR\ООП\Laba2\PaintOriginal\Debug\Paint.exe
